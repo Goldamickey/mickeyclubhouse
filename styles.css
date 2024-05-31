@@ -1,0 +1,11 @@
+.menu ul li a {
+ color: red
+}
+
+.parallax-container.page1 {
+ background-image: url('bg.png');
+}
+
+.parallax-container.page2 {
+ background-image: url('bg2.png');
+}
