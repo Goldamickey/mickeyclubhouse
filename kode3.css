@@ -1,12 +1,10 @@
 body {
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: maroon;
 }
 
-header {
+h1 {
     text-align: center;
 }
-
 nav {
     width: 80%;
     height: 60px;
@@ -20,6 +18,7 @@ nav {
 }
 
 .KLIK h3 {
+    font-family: 'Bebas Neue', cursive;
     font-size: 24px; 
     letter-spacing: 1px; 
     color: maroon; 
@@ -35,18 +34,11 @@ nav {
 }
 
 .menu ul li a {
+    text-decoration: none;
     color: maroon;
+    font-family: 'poppins';
 }
 
 .menu ul li a:hover {
     color: #000;
 }
-
-.parallax-container.page1 {
- background-image: url('bg.png');
-}
-
-.parallax-container.page2 {
- background-image: url('bg2.png');
-}
-
